@@ -1,44 +1,61 @@
+<!-- 🔥 HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Ananthu%20A%20R&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ananthu A R</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Flutter+Developer;Building+Intelligent+Systems;Creating+Impactful+Applications;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=2500&pause=1200&color=00C2FF&center=true&vCenter=true&width=650&lines=AI%2FML+Developer;Flutter+Developer;Building+Intelligent+Systems;Solving+Real+World+Problems" />
 </p>
 
 <p align="center">
   🌐 <a href="https://ananthu-dev.vercel.app/">Portfolio</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ananthuar&label=Profile%20views&color=0e75b6&style=flat" />
+---
+
+## 🧠 About Me
+
+I build **intelligent systems and real-world applications** with a focus on AI/ML and scalable solutions.  
+Passionate about turning ideas into practical, impactful technology.
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+### 🧠 Crash Sense
+
+<img src="./assets/crash-sense.png" width="75%" />
+
+<p>
+AI-powered system that predicts and mitigates application crashes in Linux, improving system reliability through intelligent analysis.
 </p>
 
----
-
-### 🧠 About Me
-
-I’m a Computer Science Engineering student focused on building **intelligent systems and real-world applications**.  
-My primary interest lies in **AI/ML and mobile development**, where I aim to design solutions that are both practical and impactful.
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 Crash Sense  
-<img src="./assets/crash-sense.png" width="100%" />
+### 🌾 Krishi Mithra *(In Progress)*  
+<img src="./assets/krishi-mithra.png" width="100%" />
 
-AI/ML-powered system that predicts and mitigates application crashes in Linux, improving system reliability through intelligent analysis.
+Direct farmer-to-consumer platform improving efficiency and eliminating intermediaries.
 
 </td>
 <td width="50%">
 
-### 🌾 Krishi Mithra *(In Progress)*  
-<img src="./assets/krishi-mithra.png" width="100%" />
+### 📸 ProofIt  
+<img src="./assets/proofit.png" width="100%" />
 
-A farmer-to-consumer platform enabling direct trade, reducing intermediaries, and improving agricultural efficiency.
+Task management app enforcing accountability through photo-based proof.
 
 </td>
 </tr>
@@ -46,24 +63,26 @@ A farmer-to-consumer platform enabling direct trade, reducing intermediaries, an
 <tr>
 <td width="50%">
 
-### 📸 ProofIt  
-<img src="./assets/proofit.png" width="100%" />
+### 🤝 Care Net  
+<img src="./assets/care-net.png" width="100%" />
 
-A task management app that enforces accountability by requiring photo-based proof before completion.
+Community platform connecting people in need with helpers.
 
 </td>
 <td width="50%">
 
-### 🤝 Care Net  
-<img src="./assets/care-net.png" width="100%" />
+### ⚡ More Coming  
+<img src="https://via.placeholder.com/500x300?text=Building+More..." width="100%" />
 
-A platform connecting individuals in need with people willing to help, improving access to community support.
+Continuously building and exploring 🚀
 
 </td>
 </tr>
-</table>---
+</table>
 
-### 🛠 Tech Stack
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
   Python • Dart • C • Java <br/>
@@ -74,23 +93,19 @@ A platform connecting individuals in need with people willing to help, improving
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ananthuar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ananthuar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ananthuar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ananthuar&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
-### 📫 Connect With Me
+## 📫 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/ananthuar03">LinkedIn</a> •
@@ -100,5 +115,5 @@ A platform connecting individuals in need with people willing to help, improving
 ---
 
 <p align="center">
-  ⭐ Building intelligent, scalable, and impactful solutions
+  ⚡ Building intelligent and impactful solutions
 </p>
