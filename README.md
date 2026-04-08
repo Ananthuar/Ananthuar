@@ -45,7 +45,7 @@ AI-powered system that predicts and mitigates application crashes in Linux, impr
 <td width="50%">
 
 ### 🌾 Krishi Mithra *(In Progress)*  
-<img src="./assets/krishi-mithra.png" width="100%" />
+<img src="./assets/krishi_mithra.png" width="100%" />
 
 Direct farmer-to-consumer platform improving efficiency and eliminating intermediaries.
 
@@ -64,7 +64,7 @@ Task management app enforcing accountability through photo-based proof.
 <td width="50%">
 
 ### 🤝 Care Net  
-<img src="./assets/care-net.png" width="100%" />
+<img src="./assets/care_net.png" width="100%" />
 
 Community platform connecting people in need with helpers.
 
