@@ -52,29 +52,31 @@ Direct farmer-to-consumer platform improving efficiency and eliminating intermed
 </td>
 <td width="50%">
 
+### ⚡ Mahanaim Gospel Team  
+<img src="./assets/mahanaim.png" width="100%" />
+
+A Live Website for a christian community
+
+</td>
+
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 📸 ProofIt  
 <img src="./assets/proofit.png" width="100%" />
 
 Task management app enforcing accountability through photo-based proof.
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### 🤝 Care Net  
 <img src="./assets/care_net.png" width="100%" />
 
 Community platform connecting people in need with helpers.
-
-</td>
-<td width="50%">
-
-### ⚡ Mahanaim Gospel Team  
-<img src="./assets/mahanaim.png" width="100%" />
-
-A Live Website for a christian community
 
 </td>
 </tr>
