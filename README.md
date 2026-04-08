@@ -28,7 +28,7 @@ Passionate about turning ideas into practical, impactful technology.
 
 ### 🧠 Crash Sense
 
-<img src="./assets/crash-sense.png" width="75%" />
+<img src="./assets/crash_sense.png" width="75%" />
 
 <p>
 AI-powered system that predicts and mitigates application crashes in Linux, improving system reliability through intelligent analysis.
@@ -71,10 +71,10 @@ Community platform connecting people in need with helpers.
 </td>
 <td width="50%">
 
-### ⚡ More Coming  
-<img src="https://via.placeholder.com/500x300?text=Building+More..." width="100%" />
+### ⚡ Mahanaim Gospel Team  
+<img src="./assets/mahanaim.png" width="100%" />
 
-Continuously building and exploring 🚀
+A Live Website for a christian community
 
 </td>
 </tr>
