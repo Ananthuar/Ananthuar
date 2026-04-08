@@ -16,26 +16,52 @@
 
 ### 🧠 About Me
 
-I’m a Computer Science Engineering student focused on building intelligent systems and real-world applications.  
-I specialize in **AI/ML and mobile development**, with a strong interest in solving practical problems through technology.
+I’m a Computer Science Engineering student focused on building **intelligent systems and real-world applications**.  
+My primary interest lies in **AI/ML and mobile development**, where I aim to design solutions that are both practical and impactful.
 
 ---
 
 ### 🚀 Featured Projects
 
-🧠 **Crash Sense**  
-An AI/ML-based system that predicts and handles application crashes in Linux, improving system reliability through intelligent analysis.
+<table>
+<tr>
+<td width="50%">
 
-🌾 **Krishi Mithra** *(In Progress)*  
-A farmer-to-consumer platform enabling direct trade, reducing intermediaries, and increasing efficiency in agricultural markets.
+### 🧠 Crash Sense  
+<img src="./assets/crash-sense.png" width="100%" />
 
-📸 **ProofIt**  
-A task management app that enforces accountability by requiring photo-based proof before task completion.
+AI/ML-powered system that predicts and mitigates application crashes in Linux, improving system reliability through intelligent analysis.
 
-🤝 **Care Net**  
-A platform that connects individuals in need with people willing to help, improving access to community support.
+</td>
+<td width="50%">
 
----
+### 🌾 Krishi Mithra *(In Progress)*  
+<img src="./assets/krishi-mithra.png" width="100%" />
+
+A farmer-to-consumer platform enabling direct trade, reducing intermediaries, and improving agricultural efficiency.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📸 ProofIt  
+<img src="./assets/proofit.png" width="100%" />
+
+A task management app that enforces accountability by requiring photo-based proof before completion.
+
+</td>
+<td width="50%">
+
+### 🤝 Care Net  
+<img src="./assets/care-net.png" width="100%" />
+
+A platform connecting individuals in need with people willing to help, improving access to community support.
+
+</td>
+</tr>
+</table>---
 
 ### 🛠 Tech Stack
 
@@ -49,8 +75,9 @@ A platform that connects individuals in need with people willing to help, improv
 ---
 
 ### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ananthuar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ananthuar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
