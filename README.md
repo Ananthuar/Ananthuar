@@ -50,11 +50,15 @@ A platform that connects individuals in need with people willing to help, improv
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananthuar&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ananthuar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananthuar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ananthuar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ananthuar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
